@@ -1,18 +1,3 @@
-/*
- * Author: Carlos Alvarez
- * URL: http://Alvarez.is
- *
- * Project Name: NYC Design
- * Version: 1.0
- * Date: 04-20-2014
- * URL: 
- */
-
-
-/* ==========================================================================
-   Base Styles, Bootstrap Modifications & Fonts Import
-   ========================================================================== */
-
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
@@ -124,12 +109,12 @@ h1, h2, h3, h4, h5, h6 {
 	color:#ffffff;
 	padding-top: 10px;
 	padding-bottom: 20px;
-	letter-spacing: 20px;
-	font-size: 60px;
+	letter-spacing: 12px;
+	font-size: 80px;
 	font-weight: bold;
 }
 
-#headerwrap h5 {
+#headerwrap h4 {
 	font-weight: 400;
 	color: #ffffff;
   letter-spacing: 5px;
@@ -205,6 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-position: center center;
 	min-height: 550px;
 	width: 100%;
+  color: white;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
